@@ -1,0 +1,53 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.padding-top-30px {
+    padding-top: 30px;
+}
+
+.padding-12px {
+    padding: 12px;
+}
+
+.padding-20px {
+    padding: 20px;
+}
+
+.flex-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.u-full-width {
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+}
+
+.padding-4px {
+    padding: 4px;
+}
+
+.margin-right-12px {
+    margin-right: 12px;
+}
+.red-text {
+    color: red;
+}
+
+.green-text {
+    color: green;
+}
+
+.black-text {
+    color: black;
+}
+
+.right-align {
+    text-align: right;
+}
+
+.rounded-border {
+    border: solid 2px lightblue;
+    border-radius: 4px;
+}
